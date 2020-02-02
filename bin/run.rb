@@ -4,3 +4,5 @@ Hashie
 Sinatra
 Octokit
 Pry
+AwesomePrint
+RSpec
